@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\WF\WF\bin\Debug\WF.exe.config
+C:\Users\User\Desktop\WF\WF\bin\Debug\WF.exe
+C:\Users\User\Desktop\WF\WF\bin\Debug\WF.pdb
+C:\Users\User\Desktop\WF\WF\bin\Debug\WF.xml
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.Form1.resources
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.Resources.resources
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.exe
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.xml
+C:\Users\User\Desktop\WF\WF\obj\Debug\WF.pdb
+D:\Загрузки\WF\WF\WF\bin\Debug\WF.exe.config
+D:\Загрузки\WF\WF\WF\obj\Debug\WF.exe
+D:\Загрузки\WF\WF\WF\obj\Debug\WF.xml
+D:\Загрузки\WF\WF\WF\obj\Debug\WF.pdb

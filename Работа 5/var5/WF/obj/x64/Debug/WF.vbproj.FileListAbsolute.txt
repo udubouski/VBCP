@@ -1,0 +1,11 @@
+D:\Загрузки\WF\WF\WF\bin\x64\Debug\WF.exe.config
+D:\Загрузки\WF\WF\WF\bin\x64\Debug\WF.exe
+D:\Загрузки\WF\WF\WF\bin\x64\Debug\WF.pdb
+D:\Загрузки\WF\WF\WF\bin\x64\Debug\WF.xml
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.vbprojResolveAssemblyReference.cache
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.Form1.resources
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.Resources.resources
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.vbproj.GenerateResource.Cache
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.exe
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.xml
+D:\Загрузки\WF\WF\WF\obj\x64\Debug\WF.pdb

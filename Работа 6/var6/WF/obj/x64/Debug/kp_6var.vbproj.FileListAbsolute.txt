@@ -1,0 +1,12 @@
+D:\WF_6\kp_6var\WF\bin\x64\Debug\WF.exe.config
+D:\WF_6\kp_6var\WF\bin\x64\Debug\WF.exe
+D:\WF_6\kp_6var\WF\bin\x64\Debug\WF.pdb
+D:\WF_6\kp_6var\WF\bin\x64\Debug\WF.xml
+D:\WF_6\kp_6var\WF\obj\x64\Debug\kp_6var.vbprojResolveAssemblyReference.cache
+D:\WF_6\kp_6var\WF\obj\x64\Debug\kp_6var.vbproj.ResolveComReference.cache
+D:\WF_6\kp_6var\WF\obj\x64\Debug\WF.Form1.resources
+D:\WF_6\kp_6var\WF\obj\x64\Debug\WF.Resources.resources
+D:\WF_6\kp_6var\WF\obj\x64\Debug\kp_6var.vbproj.GenerateResource.Cache
+D:\WF_6\kp_6var\WF\obj\x64\Debug\WF.exe
+D:\WF_6\kp_6var\WF\obj\x64\Debug\WF.xml
+D:\WF_6\kp_6var\WF\obj\x64\Debug\WF.pdb
